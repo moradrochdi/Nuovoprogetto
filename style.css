@@ -1,0 +1,74 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+
+.riquadro{
+  background-color: black;
+  opacity: 0.5;
+  margin: 250px;
+
+
+
+
+
+
+}
+
+
+.logo {
+  width: 200px;
+  opacity: 1;
+
+}
+
+.titolo {
+  color: green;
+  font-weight: bolder;
+  font-size: 25px; color:#7FFF00;
+
+}
+
+.container{
+  text-align: center;
+  padding: 25px;
+}
+.pulsanti{
+background: #7FFF00;
+border: 10px solid #7FFF00;
+font-weight: bold;
+}
+
+main{
+  opacity: 1;
+  color: white;
+  text-align: left;
+  font-weight: bolder;
+  padding: inherit;
+
+
+}
+
+.primo{ padding: 10px;}
+.secondo{ padding: 10px;}
+.terzo{margin-top:auto;}
+
+.ret1{
+  width: 300px;
+  height: 25px;
+  background-color: orange;
+
+}
+
+.ret2{
+  width: 700px;
+  height: 25px;
+  background-color: green;
+}
+
+.ret3{
+  width: 95px;
+  height: 25px;
+  background-color: red;
+}
