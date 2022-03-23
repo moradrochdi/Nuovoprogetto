@@ -1,0 +1,90 @@
+
+body{
+  background-image: url(background.jpg);
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+  
+  font-family: sans-serif;
+
+}
+#logo{
+  width: 200px;
+}
+
+
+
+.sfondo{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 800px;
+  height: 550px;
+  border-radius: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+  text-align: center;
+  padding: 30px;
+
+}
+
+.titolo{
+  color: #39ff14;
+  font-size: 25px;
+
+}
+main{
+  color: white;
+
+}
+
+#gr{
+  font-size: 18px;
+  padding: 2px;
+
+}
+
+#gx{
+  font-size: 12px;
+  padding: 2px;
+}
+nav{
+  background-color: #39ff14;
+  padding: 5px;
+  margin: 11px;
+
+}
+
+#test{
+  margin: 1px;
+  font-size: 10px;
+}
+
+.box{
+  text-align: left;
+  padding: 10px;
+}
+
+.batteria1{
+
+  width: 220px;
+  height: 21px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.batteria2{
+
+width: 400px;
+height: 21px;
+background-color: lightgreen;
+border-radius: 5px;
+}
+
+.batteria3{
+
+width: 200px;
+height: 21px;
+background-color: darkred;
+border-radius: 5px;
+}
